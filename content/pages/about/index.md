@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Jaden Juzi
 
-mail@example.org
+timon.juzi@outlook.com
 
-Here should be some info about me...
+I am a student stuck in a Swiss High School. You should not read this blog, you'll just waste your time.
